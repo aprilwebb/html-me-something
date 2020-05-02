@@ -1,9 +1,18 @@
 html {
-    margin-right: 100px;
-    margin-left: 100px;
-    padding-left: 250px;
-    padding-right: 250px;
+    /* margin-right: 100px;
+    margin-left: 100px; */
+    padding-left: 300px;
+    padding-right: 300px;
     }
+
+body {
+    background-image: url('images/flowers.jpg');
+    background-attachment: scroll;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.9;
+    text-align: center;
+}
 
  h1{
     text-align: center;
@@ -14,11 +23,6 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: medium;
     float: left;
-}
-
-body{
-    background-color: cornsilk;
-    /* text-align: center; */
 }
 
 header,
