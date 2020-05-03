@@ -23,6 +23,10 @@ p {
     float: left;
 }
 
+a{
+    color: deeppink;
+}
+
 header,
 main,
 footer {
@@ -34,6 +38,7 @@ header {
 }
 #verses{
     font-size: large;
+    font-style: italic;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -50,6 +55,11 @@ header {
     float: left;
     padding: 10px;
 
+}
+
+#hospital {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .Maya{
